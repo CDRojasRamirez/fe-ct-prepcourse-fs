@@ -37,7 +37,7 @@ WINDOWS $ dir
 "**Make Directory**": crea una nueva carpeta en el directorio donde nos encontramos actualmente.
 
 ```bash
-        $ mkdir [nombreDeLaCarpeta]
+        $ mkdir [nombreDeLaCarpetaa]
 ```
 
 "**Touch**" o "**TYPE NUL**": creará un nuevo archivo.
